@@ -53,7 +53,7 @@ gpg --list-keys
 
 **2. Backup your GnuPG key**
 
-> I highly recommend to backup your GnuPG securely. Because loosing your GnuPG key also means loosing access to your encrypted Git remote!
+> I highly recommend to backup your GnuPG securely. Because losing your GnuPG key also means loosing access to your encrypted Git remote!
 
 You can obtain your key's fingerprint by running:
 
